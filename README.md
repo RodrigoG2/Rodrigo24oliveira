@@ -2,9 +2,8 @@
 ## Bem vindo ao meu perfil GitHub👋
 
 ## Tecnologias de Uso Para Estudo
- <div style="display: inline_block"><br/>
-   
-<img align="center" alt="html5" src=https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white /> 
-<img align="center" alt="html5" src=https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white /> 
-
+ <div>
+<a href="https://github.com/seu-usuário-aqui">
+<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=seu-usuário-aqui&layout=compact&langs_count=7&theme=dracula"/>
+<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=seu-usuário-aqui&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
 </div>
